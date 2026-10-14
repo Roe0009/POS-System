@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 112" role="img" aria-label="7-Eleven style wordmark">
+  <polygon points="6,8 76,8 76,26 44,84 24,84 52,26 6,26" fill="#F27B21"/>
+  <text x="88" y="70" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-weight="900" font-size="52" letter-spacing="1" fill="#00854A">ELEVEn</text>
+  <rect x="4" y="88" width="322" height="6" rx="2" fill="#F27B21"/>
+  <rect x="4" y="96" width="322" height="6" rx="2" fill="#00854A"/>
+  <rect x="4" y="104" width="322" height="6" rx="2" fill="#EE2A24"/>
+</svg>
